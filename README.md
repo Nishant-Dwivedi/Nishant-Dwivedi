@@ -33,7 +33,7 @@ I'm a  self-taught **Javascript** developer who has turned his passion for the l
 
 
 ## Rapidfire  
-- 🌱 I’m currently learning MERN stack although I prefer to stick to frontend side of things.  
+- 🌱 I’m currently learning MERN stack although I prefer to stick to the frontend side of things.  
   
 
 - 🎯 My favourite leisure activity is reading  blogs about Javascript and related technologies.  
