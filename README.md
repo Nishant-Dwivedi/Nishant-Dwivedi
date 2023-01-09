@@ -4,7 +4,7 @@
 
 
 ### Glad to see you here!  
-I'm a  self-taught **Javascript** developer who has turned his passion for the language into beautiful User Interfaces made in **ReactJS**. I enjoy bringing mock-ups to life and having them exposed to real users. I also love creating minimalist user interfaces that are responsive and accessible. 
+I'm a **Javascript** developer who has turned his passion for the language into beautiful User Interfaces made in **ReactJS**. I enjoy bringing mock-ups to life and having them exposed to real users. I also love creating minimalist user interfaces that are responsive and accessible. 
 
 
 
