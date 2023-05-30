@@ -4,7 +4,7 @@
 
 
 ### Glad to see you here!  
-I'm a **Javascript** developer who has turned his passion for the language into beautiful User Interfaces made in **ReactJS**. I enjoy bringing mock-ups to life and having them exposed to real users. I also love creating minimalist user interfaces that are responsive and accessible. 
+I'm a **Javascript** developer with 1.5 years of experience in building Single-page applications using **ReactJS** for the front-end and **NodeJS** for the back-end. I am currently learning NextJS because server-side rendering seems to be the next big thing the web industry is moving towards. 
 
 
 
@@ -33,13 +33,13 @@ I'm a **Javascript** developer who has turned his passion for the language into 
 
 
 ## Rapidfire  
-- 🌱 I’m currently learning MERN stack although I prefer to stick to the frontend side of things.  
+- 🌱 I’m currently learning NextJS.  
   
 
-- 🎯 My favourite leisure activity is reading  blogs about Javascript and related technologies.  
+- 🎯 My favourite leisure activity is reading  blogs about Javascript and related technologies. I also leetcode whenever i'm free but that doesn't happen as often as i would like it to. 
   
 
-- ⚡ I'm always open to collaborating on exciting projects. HMU if you have anything in mind.  
+- ⚡ I'm always open to collaborating on exciting projects. Hit me up if you have anything in mind.  
   
 
 <br/>  
