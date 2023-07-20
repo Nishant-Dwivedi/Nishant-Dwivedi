@@ -4,7 +4,7 @@
 
 
 ### Glad to see you here!  
-I'm a **Javascript** developer with 1.5 years of experience in building Single-page applications using **ReactJS** for the front-end and **Express(NodeJS)** for the back-end. I have experience with some industry-standard React libraries like React-testing-library(Jest), React Router, and Redux and React-Query. I also have experience with web technologies like mongoDB, typescript, tailwindCSS, webpack, vite and the likes. 
+I'm a **Javascript** developer with 1.5 years of experience in building Single-page applications using **React** for the front-end and **Express (NodeJS)** for the back-end. I have experience with some industry-standard React libraries like React-testing-library(Jest), React Router, and Redux and React-Query. I also have experience with web technologies like mongoDB, typescript, tailwindCSS, webpack, vite and the likes. 
 
 
 
