@@ -31,9 +31,9 @@ I'm a **Javascript** developer with 1.5 years of experience in building Single-p
 
 
 ## Rapidfire  
-- 🌱 I’m currently learning NextJS. 
+- 🌱 I’m currently exploring SSR using NextJS. 
 
-- 🎯 My favourite leisure activity is reading  blogs about Javascript and related technologies.
+- 🎯 In my free time, i like to read blogs about Javascript and and everything that's going on with its ecosystem since things change rapidly in web development.
 
 - ⚡ I'm always open to collaborating on exciting projects. Hit me up if you have anything interesting in mind.  
   
