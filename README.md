@@ -9,7 +9,7 @@ I'm a **Javascript** developer with experience in building fullstack web applica
 - Frontend technologies: React, Redux toolkit, Vite, Webpack, Tailwind, Astro, HTML, CSS.
 - Backend technologies: Node.js, Express.
 - Testing: Jest, supertest.
-- Database systems: PostgrSQL, MongoDB, Redis.
+- Database systems: PostgreSQL, MongoDB, Redis.
 
 
 
