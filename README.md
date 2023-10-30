@@ -4,10 +4,12 @@
 
 
 ### Glad to see you here!  
-I'm a **Javascript** developer with 1.5 years of experience in building Single-page applications using **React** for the front-end and **Express (NodeJS)** for the back-end. I have experience with some industry-standard React libraries like React-testing-library(Jest), React Router, and Redux and React-Query. I also have experience with web technologies like mongoDB, typescript, tailwindCSS, webpack, vite and the likes. 
-
-
-
+I'm a **Javascript** developer with experience in building fullstack web applications. I've listed the web technologies that i've experience in, below.
+- Programming Languages: Javascript, TypeScript.
+- Frontend technologies: React, Redux toolkit, Vite, Webpack, Tailwind, Astro, HTML, CSS.
+- Backend technologies: Node.js, Express.
+- Testing: Jest, supertest.
+- Database systems: PostgrSQL, MongoDB, Redis.
 
 
 
@@ -25,17 +27,6 @@ I'm a **Javascript** developer with 1.5 years of experience in building Single-p
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
-<br/>  
-
-
-## Rapidfire  
-- 🌱 I’m currently exploring SSR using NextJS. 
-
-- 🎯 In my free time, i like to read blogs about Javascript and and everything that's going on with its ecosystem since things change rapidly in web development.
-
-- ⚡ I'm always open to collaborating on exciting projects. Hit me up if you have anything interesting in mind.  
   
 
 <br/>  
