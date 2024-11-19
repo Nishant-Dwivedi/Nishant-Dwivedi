@@ -6,10 +6,10 @@
 ### Glad to see you here!  
 I'm a **Javascript** developer with experience in building fullstack web applications. I've listed the web technologies that i've experience in, below.
 - Programming Languages: Javascript, TypeScript.
-- Frontend technologies: React, Redux toolkit, Vite, Webpack, Tailwind, Astro, HTML, CSS.
+- Frontend technologies: React, Redux toolkit, Vite, Tailwind, Astro, HTML, CSS.
 - Backend technologies: Node.js, Express.
 - Testing: Jest, supertest.
-- Database systems: PostgreSQL, MongoDB, Redis.
+- Database systems: PostgreSQL, MongoDB, SQLite 3.0.
 
 
 
@@ -45,32 +45,3 @@ I'm a **Javascript** developer with experience in building fullstack web applica
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="75" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="75" /></a>   
 </div>  
-
-<br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishant-dwivedi&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nishant-dwivedi&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
