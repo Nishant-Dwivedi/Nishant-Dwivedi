@@ -4,7 +4,7 @@
 
 
 ### Glad to see you here!  
-I'm a **Javascript** developer with experience in building fullstack web applications. I've listed the web technologies that i've experience in, below.
+I'm a Web developer with experience in building fullstack web applications. I've listed the web technologies that i've experience in, below.
 - Programming Languages: Javascript, TypeScript.
 - Frontend technologies: React, Redux toolkit, Vite, Tailwind, Astro, HTML, CSS.
 - Backend technologies: Node.js, Express.
